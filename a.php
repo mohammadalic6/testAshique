@@ -26,6 +26,7 @@ define('DB_PASSWORD', 'subisu');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
+define('asdf');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
